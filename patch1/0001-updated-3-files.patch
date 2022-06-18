@@ -1,0 +1,60 @@
+From d5dd816eadbd1dd4a4d84613ae913994777b1400 Mon Sep 17 00:00:00 2001
+From: naziyak <naziyak2499@gmail.com>
+Date: Sat, 18 Jun 2022 15:02:36 +0530
+Subject: [PATCH] updated 3 files
+
+---
+ BinaryTree.txt |  7 ++++++-
+ Tree.txt       |  6 +++++-
+ nk3.txt        | 11 ++++++++++-
+ 3 files changed, 21 insertions(+), 3 deletions(-)
+
+diff --git a/BinaryTree.txt b/BinaryTree.txt
+index ca87a4d..cf48339 100644
+--- a/BinaryTree.txt
++++ b/BinaryTree.txt
+@@ -1,3 +1,8 @@
+ Data
+ Pointer to left child
+-Pointer to right child
+\ No newline at end of file
++Pointer to right child
++
++========================
++========================
++========================
++right left corner
+diff --git a/Tree.txt b/Tree.txt
+index 841c9e9..043504b 100644
+--- a/Tree.txt
++++ b/Tree.txt
+@@ -2,4 +2,8 @@ A complete binary tree is said to be a proper binary tree where all leaves have
+ In a complete binary tree number of nodes at depth d is 2d. 
+ In a  complete binary tree with n nodes height of the tree is log(n+1).
+ All the levels except the last level are completely full.
+-//added line 1:
++//added line 1
++// added line 2
++// ====================
++=======================
++=======================:
+diff --git a/nk3.txt b/nk3.txt
+index 3cf6162..635c474 100644
+--- a/nk3.txt
++++ b/nk3.txt
+@@ -1 +1,10 @@
+-hello i am nk
+\ No newline at end of file
++hello i am nk
++dd df
++fd fd f
++df f ccf
++df cdf vf
++df vdfv f
++dfv df fdv 
++fd df vfd v
++df df df 
++
+-- 
+2.33.0.windows.2
+

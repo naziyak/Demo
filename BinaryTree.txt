@@ -2,7 +2,7 @@ Data
 Pointer to left child
 Pointer to right child
 
-========================
-========================
-========================
+Left, Right, center
+====================
+=====================
 right left corner
