@@ -2,4 +2,8 @@ A complete binary tree is said to be a proper binary tree where all leaves have 
 In a complete binary tree number of nodes at depth d is 2d. 
 In a  complete binary tree with n nodes height of the tree is log(n+1).
 All the levels except the last level are completely full.
-//added line 1:
+//added line 1
+// added line 2
+// ====================
+=======================
+=======================:
